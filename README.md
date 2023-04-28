@@ -1,4 +1,4 @@
-#Sithec prueba
+# Sithec prueba
 
 ## Prueba técnica para Sithec
 
